@@ -12,3 +12,4 @@ def check_strike_ball(secret_number, answer_number):
 
 print(check_strike_ball([1, 2, 3],[1, 3, 2]))
 print(check_strike_ball([1, 2, 3],[4, 5, 6]))
+
